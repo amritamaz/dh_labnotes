@@ -5,25 +5,25 @@
 + present working directory - where am I?
 
 
-    cd ______
+      cd ______
 
 
 + change directory - mvoe into a new folder
 
 
-    ls
+      ls
 
 
 + list all the files in the directory/folder I am currently in
 
 
-    cd ..
+      cd ..
 
 
 + go up a directory
 
 
-    cd -
+      cd -
 
 
 + jump to the last directory you were in
