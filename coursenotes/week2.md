@@ -1,7 +1,7 @@
-Digital Humanities
-Week 2
+# Digital Humanities
+#Week 2
 
-# Hughes
+## Hughes
 + explanation of copyright's origins and why we would want to use it
 + Lockean justification
    + doesn't always translate when goods are converted to money

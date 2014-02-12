@@ -1,7 +1,7 @@
-Digital Humanities
-Week 2
+#Digital Humanities
+#Week 2
 
-# Annotated Bibliography
+## Annotated Bibliography
 + pick a topic that speaks to you
 + find a good body of work and annotate the bibliography
 + pick a topic from one of the classes
