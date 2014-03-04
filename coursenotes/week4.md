@@ -1,3 +1,5 @@
+# Digital Humanities Week 4
+
 ## Creating a Roadmap of terms
 + Open Access - access to text, academic publications
 	- there are some publishers and aggregators that close information right this
